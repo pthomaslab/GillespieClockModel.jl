@@ -21,7 +21,7 @@ Tested using Julia 1.10+. Needs Catalyst.jl, ModelingToolkit.jl, JumpProcesses.j
 
 ## Installation
 
-No installation required.
+No installation is required.
 
 ## Usage
 
