@@ -7,8 +7,6 @@ The code implements a mass-action adaptation of the model in *Chew et al. Nature
 
 Several input functions are provided:
 
-- square wave
-- sine wave
 - noisy day start
 - noisy day end
 - Caribbean 1
