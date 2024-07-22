@@ -1,7 +1,7 @@
 # clockmodel
 Simulation of cyanobacterial circadian clock dynamics in random light enviroments
 
-The script implements a mass-action adaptation of the model in Chew et al. Nature Communications 9: 3004 (2018). Light inputs are assumed to modulate  
+The script implements a mass-action adaptation of the model in Chew et al. Nature Communications 9: 3004 (2018). Light inputs are assumed to modulate phosphorylation rate.
 
 ## System requirements
 
