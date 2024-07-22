@@ -1,7 +1,7 @@
-# clockmodel
-Stochastic simulation of cyanobacterial circadian clock dynamics in random light enviroments
+# GillespieClockModel.jl
+Stochastic simulation of cyanobacterial circadian clock dynamics in random light environments
 
-The script implements a mass-action adaptation of the model in Chew et al. Nature Communications 9: 3004 (2018). Light inputs are assumed to modulate phosphorylation rate. Mass action reaction network with piece-wise constant light inputs is read from file and then simulated using Gillespie-type stochastic simulation.
+The code implements a mass-action adaptation of the model in Chew et al. Nature Communications 9: 3004 (2018). Light inputs are assumed to modulate the phosphorylation rate. A mass action-reaction model with piece-wise constant light inputs is read from a file and simulated using Gillespie-type stochastic simulation.
 
 ## Light inputs
 
