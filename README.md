@@ -13,7 +13,7 @@ Several input functions are provided:
 - noisy day start
 - noisy day end
 - Caribbean 1
-- Carribean 2
+- Caribbean 2
 
 ## System requirements
 
