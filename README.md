@@ -22,7 +22,7 @@ No installation is required.
 
 ## Usage
 
-Run `julia randenv.jl`
+Run `julia randomenvironment.jl`
 
 ## Demo
 
